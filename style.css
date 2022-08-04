@@ -1,0 +1,17 @@
+body {
+  font-family: "M PLUS Code Latin", sans-serif;
+  background: linear-gradient(
+    90deg,
+    rgba(248, 147, 68, 1) 0%,
+    rgba(255, 100, 47, 1) 35%,
+    rgba(63, 247, 247, 1) 100%
+  );
+}
+
+.container {
+  width: 320px;
+}
+
+.quote-body {
+  background-color: #b5effb;
+}
